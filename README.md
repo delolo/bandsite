@@ -8,7 +8,7 @@ Basic static site deployed with Ruby Rack following [this Heroku tutorial](https
 
 ## Prerequisites
 
-You need Ruby and the Bundler gem.
+You need Ruby and the Bundler gem. In Ubuntu, this should do it: `sudo apt-get install ruby-bundler rubygems`.
 
 ## Installation
 
