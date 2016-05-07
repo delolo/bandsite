@@ -1,4 +1,4 @@
-# Arse Craic Band Site
+# Band Site
 
 Just another arse on the web.
 
